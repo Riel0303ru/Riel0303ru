@@ -1,5 +1,24 @@
-# 💫 About Me:
-💫 About Me:<br>👋 Hi there! I'm Gabriel<br>🔧 Machine Engineering student with a passion for creating elegant and functional user interfaces to help businesses achieve their goals.<br>🚀 Currently learning and implementing advanced algorithms, data structures, and simulation techniques.<br>💻 I'm always striving to improve my skills and contribute to meaningful projects.<br><br>🔭 I’m currently working on:<br>Developing efficient algorithms for problems like Traveling Salesman Problem (TSP) and A* pathfinding algorithms.<br>Creating simulations in MATLAB and FreeMat for various engineering applications.<br>Building websites using WordPress and improving UI/UX design for a better user experience.<br>🌱 I’m learning:<br>Advanced machine learning techniques.<br>Git & GitHub workflows for efficient version control and collaboration.<br>💬 Feel free to reach out to me if you're interested in:<br>Collaborating on projects related to engineering, programming, or design.<br>Exchanging ideas on how to create better and more functional user interfaces.<br>Discussing simulation programming or data science techniques.
+👋 About Me:
+Hey, I’m Gabriel Hizkia Brigas Sabatino!
+🔧 I’m a Machine Engineering student with a passion for creating elegant, functional user interfaces and solving complex problems with efficient algorithms.
+🚀 Currently diving into advanced algorithms, data structures, and simulation techniques to build tools and systems that make an impact.
+
+💡 I believe in blending engineering principles with cutting-edge software development to drive innovation and optimize real-world solutions. Always on the lookout for new challenges to tackle and opportunities to learn!
+
+🔭 What I’m Working On:
+Developing high-performance algorithms for problems like the Traveling Salesman Problem (TSP) and A* pathfinding to enhance optimization.
+Building dynamic simulations in MATLAB and FreeMat to solve engineering problems and test solutions.
+Crafting responsive websites with WordPress and refining UI/UX design to improve user experience and functionality.
+🌱 What I’m Learning:
+Exploring advanced machine learning techniques to bring AI-powered solutions to life.
+Mastering Git & GitHub workflows to improve version control and streamline collaboration across teams.
+💬 Let’s Connect! I’m Interested In:
+Collaborating on engineering and software development projects that solve real-world challenges.
+Exchanging ideas on designing functional and intuitive user interfaces.
+Diving deep into simulation programming and exploring the power of data science to inform decision-making.
+⚡ Fun Fact:
+I love turning complex theoretical concepts into practical applications. Every project is a new opportunity to innovate and improve! 🚀
+
 
 
 ## 🌐 Socials:
