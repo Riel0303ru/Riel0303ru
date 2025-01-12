@@ -1,5 +1,6 @@
+💫 About Me:
 👋 About Me:
-Hey, I’m Gabriel Hizkia Brigas Sabatino!
+Hey, I’m Gabriel
 🔧 I’m a Machine Engineering student with a passion for creating elegant, functional user interfaces and solving complex problems with efficient algorithms.
 🚀 Currently diving into advanced algorithms, data structures, and simulation techniques to build tools and systems that make an impact.
 
