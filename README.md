@@ -1,24 +1,5 @@
-💫 About Me:
-👋 About Me:
-Hey, I’m Gabriel
-🔧 I’m a Machine Engineering student with a passion for creating elegant, functional user interfaces and solving complex problems with efficient algorithms.
-🚀 Currently diving into advanced algorithms, data structures, and simulation techniques to build tools and systems that make an impact.
-
-💡 I believe in blending engineering principles with cutting-edge software development to drive innovation and optimize real-world solutions. Always on the lookout for new challenges to tackle and opportunities to learn!
-
-🔭 What I’m Working On:
-Developing high-performance algorithms for problems like the Traveling Salesman Problem (TSP) and A* pathfinding to enhance optimization.
-Building dynamic simulations in MATLAB and FreeMat to solve engineering problems and test solutions.
-Crafting responsive websites with WordPress and refining UI/UX design to improve user experience and functionality.
-🌱 What I’m Learning:
-Exploring advanced machine learning techniques to bring AI-powered solutions to life.
-Mastering Git & GitHub workflows to improve version control and streamline collaboration across teams.
-💬 Let’s Connect! I’m Interested In:
-Collaborating on engineering and software development projects that solve real-world challenges.
-Exchanging ideas on designing functional and intuitive user interfaces.
-Diving deep into simulation programming and exploring the power of data science to inform decision-making.
-⚡ Fun Fact:
-I love turning complex theoretical concepts into practical applications. Every project is a new opportunity to innovate and improve! 🚀
+# 💫 About Me:
+👋 About Me:<br>Hey, I’m Gabriel<br>🔧 I’m a Machine Engineering student with a passion for creating elegant, functional user interfaces and solving complex problems with efficient algorithms.<br>🚀 Currently diving into advanced algorithms, data structures, and simulation techniques to build tools and systems that make an impact.<br><br>💡 I believe in blending engineering principles with cutting-edge software development to drive innovation and optimize real-world solutions. Always on the lookout for new challenges to tackle and opportunities to learn!<br><br>🔭 What I’m Working On:<br>Developing high-performance algorithms for problems like the Traveling Salesman Problem (TSP) and A* pathfinding to enhance optimization.<br>Building dynamic simulations in MATLAB and FreeMat to solve engineering problems and test solutions.<br>Crafting responsive websites with WordPress and refining UI/UX design to improve user experience and functionality.<br>🌱 What I’m Learning:<br>Exploring advanced machine learning techniques to bring AI-powered solutions to life.<br>Mastering Git & GitHub workflows to improve version control and streamline collaboration across teams.<br>💬 Let’s Connect! I’m Interested In:<br>Collaborating on engineering and software development projects that solve real-world challenges.<br>Exchanging ideas on designing functional and intuitive user interfaces.<br>Diving deep into simulation programming and exploring the power of data science to inform decision-making.<br>⚡ Fun Fact:<br>I love turning complex theoretical concepts into practical applications. Every project is a new opportunity to innovate and improve! 🚀<br><br>
 
 
 
