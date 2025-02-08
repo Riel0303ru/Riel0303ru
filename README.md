@@ -1,5 +1,29 @@
-# 💫 About Me:
-<br>Hey, I’m Gabriel<br>🔧 I’m a Machine Engineering student with a passion for creating elegant, functional user interfaces and solving complex problems with efficient algorithms.<br>🚀Currently diving into advanced algorithms, data structures, and simulation techniques to build tools and systems that make an impact.<br><br>💡 I believe in blending engineering principles with cutting-edge software development to drive innovation and optimize real-world solutions. Always on the lookout for new challenges to tackle and opportunities to learn!<br><br>🔭 What I’m Working On:<br>Developing high-performance algorithms for problems like the Traveling Salesman Problem (TSP) and A* pathfinding to enhance optimization.<br>Building dynamic simulations in MATLAB and FreeMat to solve engineering problems and test solutions.<br>Crafting responsive websites with WordPress and refining UI/UX design to improve user experience and functionality.<br>🌱 What I’m Learning:<br>Exploring advanced machine learning techniques to bring AI-powered solutions to life.<br>Mastering Git & GitHub workflows to improve version control and streamline collaboration across teams.<br>💬 Let’s Connect! I’m Interested In:<br>Collaborating on engineering and software development projects that solve real-world challenges.<br>Exchanging ideas on designing functional and intuitive user interfaces.<br>Diving deep into simulation programming and exploring the power of data science to inform decision-making.<br>⚡ Fun Fact:<br>I love turning complex theoretical concepts into practical applications. Every project is a new opportunity to innovate and improve! 🚀<br><br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Yhon+Vivas;Welcome+to+my+profile!" alt="Title"></img>
+</div> 
+
+<br>
+ 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🔭 I’m currently working as a `Software` Developer.
+- 🌱 I’m currently learning `Swift` and `Mobile Development` in general :D
+- 📍 From Colombia, living in Santiago, Chile 🇨🇱.
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr> 
+</table>
 
 
 
