@@ -12,11 +12,17 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="50%" align="left"> 
 
-- 🔭 I’m currently working as a `Software` Developer.
-- 🌱 I’m currently learning `Swift` and `Mobile Development` in general :D
-- 📍 From Colombia, living in Santiago, Chile 🇨🇱.
+🔭 A **Mechanical Engineering Student** passionate about **Software Development & AI**.  
+🌱 Exploring **MATLAB, Python, and Reinforcement Learning** for real-world applications 🤖.  
+🚀 Developing **Simulation-Based Engineering Tools**.  
+📍 Based in **Indonesia**, always eager to learn and create innovative solutions!  
+
+💡 Interests:  
+- Artificial Intelligence & Reinforcement Learning 🧠  
+- Computational Simulations & Finite Element Analysis 🔬  
+- UI/UX & Creative Writing ✍️ 
 
 </td>
 <td width="50%" align="center">
